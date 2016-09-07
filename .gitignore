@@ -3,3 +3,4 @@ APIRequests.py
 APIRequests.pyc
 spark-warehouse
 server.js
+.gitignore
